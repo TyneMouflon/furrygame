@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "furrygame",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "03763325-e26f-4e5c-a6a9-b6f3eee1c584",
+			"database_name": "database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
